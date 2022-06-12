@@ -15,3 +15,5 @@
   * [Black-Litterman Framework 설명 및 코드 구현](https://github.com/inandout-kr/FBA_Quant/blob/main/Asset_Pricing/Black-Litterman_Python/Black-Litterman-Framework.ipynb)
 * 금융 시계열(Financial Time Series)
   * [원시뇌전도 예측](https://github.com/inandout-kr/timeSeriesAnalysis/blob/main/MachineLearningForTimeSeries.ipynb) 특징 전처리, Random Forest, XGBoost, Clustering
+  * [Kalman Filter](https://github.com/inandout-kr/timeSeriesAnalysis/blob/main/KalmanFilter.R)
+  * [Hidden Markov Model](https://github.com/inandout-kr/timeSeriesAnalysis/blob/main/HiddenMarkovModel.R)
