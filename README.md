@@ -13,3 +13,5 @@
    * [재무제표(10-k) NLP(출처: Udacity, 학회원 수정)](https://github.com/inandout-kr/FBA_Quant/blob/main/Financial_Machine_Learning/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC/project_NLP%20on%20Financial%20Statements_%EC%88%98%EC%A0%95%EB%B3%B8.ipynb)
 * 자산가격 결정(Asset Pricing)
   * [Black-Litterman Framework 설명 및 코드 구현](https://github.com/inandout-kr/FBA_Quant/blob/main/Asset_Pricing/Black-Litterman_Python/Black-Litterman-Framework.ipynb)
+* 금융 시계열(Financial Time Series)
+  * [원시뇌전도 예측](https://github.com/inandout-kr/timeSeriesAnalysis/blob/main/MachineLearningForTimeSeries.ipynb) 특징 전처리, Random Forest, XGBoost, Clustering
